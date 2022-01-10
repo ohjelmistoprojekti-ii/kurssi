@@ -101,7 +101,9 @@ Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjau
 
 Sprint 2 työskentely jatkuu. Opettajat nimeävät jokaiselle tiimille **vertaisryhmän**, jotka **katselmoivat toistensa lähdekoodit** ja antavat palautetta demoissa.
 
-Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. 
+Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
+
+[Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
 
 ### 14.-20.3. Sprint 2 katselmoinnit
 
