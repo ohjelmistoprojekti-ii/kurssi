@@ -37,7 +37,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 ## Projektien käynnistys *(17.-30.1.)*
 
-### 17.-23.1.
+### 17.-23.1. tiimien muodostaminen
 
 * Tiistai 18.1. / MS Teams
 
@@ -53,7 +53,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
     [Palvelujen kehittämisen menetelmät (haaga-helia.fi)](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
 
-### 24.-30.1.
+### 24.-30.1. "design sprint"
 
 * Tiistai 25.1. / MS Teams
 
@@ -147,6 +147,11 @@ Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja ke
 Tiimit pyrkivät viimeisessä sprintissä stabiloimaan projektinsa, eli he keskittyvät erityisesti toimintavarmuuden takaamiseen uusien ominaisuuksien jäädessä pienemmälle painoarvolle.
 
 ### 25.4.-1.5.
+
+Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
+
+Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
+
 
 ### 2.-8.5 Sprint 4:n katselmoinnit
 
