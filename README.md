@@ -18,7 +18,11 @@ Ohjelmistokehityksen teknologioita-kurssi toimii osin tämän kurssin teknisenä
 
 Kurssin lopputulokset julkaistaan lähtökohtaisesti avoimella lisenssillä.
 
-Katso myös [opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TA024).
+Katso myös:
+
+* [opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TA024)
+* [Scrum guides](https://scrumguides.org/)
+* [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 
 # Kurssin aikataulu *(kevät 2022)*
@@ -39,13 +43,15 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
     Kurssin käytäntöjen ja tavoitteiden käsittely.
 
+    [Esimerkkejä avoimen rajapinnan tarjoavista palveluista](avoimet-rajapinnat.md)
+
     **Tehtävä**: avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 
 * Torstai 20.1. / MS Teams
 
     Jakautuminen tiimeihin.
 
-    [Palvelujen kehittämisen menetelmät](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
+    [Palvelujen kehittämisen menetelmät (haaga-helia.fi)](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
 
 ### 24.-30.1.
 
