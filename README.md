@@ -155,7 +155,7 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 
 ### 2.-8.5 Sprint 4:n katselmoinnit
 
-Projektin dokumentaation viimeistely.
+[Projektin dokumentaation viimeistely.](scrum/dokumentointi.md)
 
 Projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
 
