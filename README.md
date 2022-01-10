@@ -1,4 +1,4 @@
-# Ohjelmistoprojekti II, SWD4TA024
+# Ohjelmistoprojekti II, SWD4TN024
 
 Tämä Git-repositorio sisältää Ohjelmistoprojekti II -kurssin dokumentaation ja tiedostot.
 
