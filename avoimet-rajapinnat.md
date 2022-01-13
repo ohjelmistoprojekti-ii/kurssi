@@ -60,6 +60,10 @@
 
     > Open Knowledge Finland ry
 
+* https://developer.iata.org/en/api/
+
+    > Flight and airline open data
+
 * https://github.com/fmidev
 
     > FMI Open data
