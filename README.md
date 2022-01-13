@@ -58,6 +58,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 * Tiistai 25.1. / MS Teams
 
     Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off
+    https://www.thoughtworks.com/insights/blog/double-diamond
 
 * Torstai 27.1. / MS Teams
 
