@@ -58,20 +58,24 @@
 
 * https://www.okf.fi/fi/
 
-    Open Knowledge Finland ry
+    > Open Knowledge Finland ry
 
 * https://github.com/fmidev
 
-    FMI Open data
+    > FMI Open data
 
 * https://developer.here.com/develop/rest-apis
 
-    HERE location and path interface
+    > HERE location and path interface
 
 * https://developer-api.kone.com/
 
-    Kone lift and elevator data interface
+    > Kone lift and elevator data interface
 
 * https://developer.atlassian.com/server/jira/platform/rest-apis/
 
-    Atlassian JIRA REST APIs
+    > Atlassian JIRA REST APIs
+    
+* http://gis.vantaa.fi/rajapinnat/rest_tyopaikat.html
+
+    > Vantaa city open jobs
