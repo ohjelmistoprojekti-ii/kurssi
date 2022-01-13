@@ -53,7 +53,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
     [Palvelujen kehittämisen menetelmät (haaga-helia.fi)](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
 
-### 24.-30.1. "design sprint"
+### 24.-30.1. "define sprint"
 
 * Tiistai 25.1. / MS Teams
 
