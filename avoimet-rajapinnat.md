@@ -79,3 +79,7 @@
 * http://gis.vantaa.fi/rajapinnat/rest_tyopaikat.html
 
     > Vantaa city open jobs
+
+* https://pipedream.com/apps/swapi
+
+    > Star Wars API
