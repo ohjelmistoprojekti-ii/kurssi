@@ -65,14 +65,14 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
     Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista
 
-    **Tehtävä**: design-vaiheen tulosten raportointi opettajille sunnuntai-iltaan mennessä. User storyjen tai taskien valinta ensimmäiselle sprintille. Scrum boardin jakaminen opettajille.
+    **Tehtävä**: define-vaiheen tulosten raportointi opettajille sunnuntai-iltaan mennessä. User storyjen tai taskien valinta ensimmäiselle sprintille. Scrum boardin jakaminen opettajille.
 
 
 ## Sprint 1 *(31.1.-20.2.)*
 
 ### 31.1.-6.2. Sprint 1:n käynnistys
 
-Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Kukin tiimi pitää opettajien kanssa tapaamisen design-tulosten sekä ensimmäisen sprintin backlogin esittelemiseksi.
+Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Kukin tiimi pitää opettajien kanssa tapaamisen define-tulosten sekä ensimmäisen sprintin backlogin esittelemiseksi.
 
 ### 7.-13.2.
 
