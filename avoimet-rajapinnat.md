@@ -84,6 +84,6 @@
 
     > Vantaa city open jobs
 
-* https://pipedream.com/apps/swapi
+* https://swapi.dev
 
     > Star Wars API
