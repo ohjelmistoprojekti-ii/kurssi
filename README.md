@@ -32,6 +32,10 @@ Kurssin tapaamiset järjestetään Haaga-Helian linjausten mukaisesti toistaisek
 * tiistaisin klo 8.15-10.45
 * torstaisin klo 12-14.45
 
+Lisäksi kurssille on varattu lukujärjestykseen aikaa tiimien itsenäiselle toiminnalle. Näillä tapaamisajoilla opettajat eivät ole aina tavoitettavissa:
+
+* maanantaisin klo 14-16:45
+
 Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Kevään aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
 
 
