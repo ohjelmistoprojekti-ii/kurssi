@@ -32,6 +32,10 @@
 
     > "Helsinki Region Transport (HSL) offers open data both in the form of API services and data packages."
 
+* https://www.ilmatieteenlaitos.fi/avoin-data
+
+    > "Suuri osa Ilmatieteen laitoksen tietoaineistoista on saatavilla avoimena datana. Tietoaineistot on avattu koneluettavassa, digitaalisessa muodossa. Myös laitoksessa tuotettujen lähdekoodien avaaminen on aloitettu."
+
 * https://github.com/public-apis/public-apis
 
     > "A collective list of free APIs for use in software and web development"
