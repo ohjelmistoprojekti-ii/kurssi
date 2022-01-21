@@ -83,10 +83,6 @@
 * https://developer.atlassian.com/server/jira/platform/rest-apis/
 
     > Atlassian JIRA REST APIs
-    
-* http://gis.vantaa.fi/rajapinnat/rest_tyopaikat.html
-
-    > Vantaa city open jobs
 
 * https://swapi.dev
 
