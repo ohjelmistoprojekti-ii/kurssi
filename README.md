@@ -151,6 +151,8 @@ Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
 
+## Sprint 4 *(18.4.-8.5.)*
+
 ### 18.-24.4. Sprint 4:n käynnistys
 
 Tiimit pyrkivät viimeisessä sprintissä stabiloimaan projektinsa, eli he keskittyvät erityisesti toimintavarmuuden takaamiseen uusien ominaisuuksien jäädessä pienemmälle painoarvolle.
