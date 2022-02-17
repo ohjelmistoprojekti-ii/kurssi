@@ -179,4 +179,4 @@ Kurssin itse- ja vertaisarviointien kirjoittaminen. Oman oppimisen pohdinta.
 
 ------
 
-Tämän sivun ovat kehittäneet Ohto Rainio, Teemu Havulinna ja Ismo Harjunmaa.
+Tämän sivuston ovat kehittäneet Teemu Havulinna ja Ismo Harjunmaa. Materiaali pohjautuu suuresti Ohto Rainion kurssimateriaaleihin.
