@@ -32,11 +32,16 @@ Kurssin tapaamiset järjestetään Haaga-Helian linjausten mukaisesti toistaisek
 * tiistaisin klo 8.15-10.45
 * torstaisin klo 12-14.45
 
+Kurssille varattuina ajankohtina työskennellään projektin parissa scrum-kehyksen mukaisesti. Tavoitteenamme on työskennellä kolmen viikon sprinteissä, joita  mahtuu kurssille 4 kappaletta. Intensiivi- ja lomaviikkoja ei huomioida osana sprinttien kestoa. Kunkin tiimin sprintin aloitukset ja katselmoinnit pyritään järjestämään toistuvasti samoina viikonpäivinä ja kellonaikoina, jolloin sprintin pituudet pysyvät tasaisina.
+
 Lisäksi kurssille on varattu lukujärjestykseen aikaa tiimien itsenäiselle toiminnalle. Näillä tapaamisajoilla opettajat eivät ole aina tavoitettavissa:
 
 * maanantaisin klo 14-16:45
 
+**Päivitys:** maaliskuusta alkaen tiimit voivat hyödyntää myös kurssille varattuja luokkatiloja 5006 ja 5007.
+
 Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-helia.fi/fi/ects-jarjestelma-ja-tutkintotodistuksen-liite-eli-diploma-supplement). Kevään aikana viikoittaiseksi työmääräksi tulee noin 17 tuntia. Tulet siis työskentelemään merkittävässä määrin myös yhteisten tapaamisten ulkopuolella.
+
 
 
 ## Projektien käynnistys *(17.-30.1.)*
