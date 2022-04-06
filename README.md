@@ -168,14 +168,18 @@ Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjau
 
 Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
 
-
-### 2.-8.5 Sprint 4:n katselmoinnit
+### 2.-8.5. Projektin viimeistely
 
 [Projektin dokumentaation viimeistely.](scrum/dokumentointi.md)
 
 Projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
 
 Projektin tunnettujen puutteiden dokumentointi (GitHub issues).
+
+
+### ~~2.-8.5~~ 9.-15.5. Kurssin loppudemot
+
+Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille. Viimeisessä sprintissä ei vertaiskatselmoida koodia, vaan projektin "yleisilmettä" painottuen erityisesti Git-repostitorioon ja dokumentaatioon.
 
 
 ### 9.-22.5. Itse- ja vertaisarvioinnit
