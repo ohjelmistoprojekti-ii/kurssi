@@ -25,7 +25,7 @@ Katso myös:
 * [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 
-# Kurssin aikataulu *(kevät 2022)*
+# 📅 Kurssin aikataulu *(kevät 2022)*
 
 Kurssin tapaamiset järjestetään Haaga-Helian linjausten mukaisesti toistaiseksi etänä MS Teams -sovelluksessa seuraavan aikataulun mukaisesti:
 
