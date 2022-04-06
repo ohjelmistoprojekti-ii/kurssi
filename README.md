@@ -151,6 +151,7 @@ Ei kurssin yhteisiä tapaamisia.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
+
 ### 4.-10.4.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
@@ -199,7 +200,10 @@ Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaa
 
 ## 9.-22.5. Itse- ja vertaisarvioinnit
 
-Kurssin itse- ja vertaisarviointien kirjoittaminen. Oman oppimisen pohdinta.
+Kurssin itse- ja vertaisarviointien kirjoittaminen ja oman oppimisen pohdinta.
+
+&nbsp;
+
 
 ------
 
