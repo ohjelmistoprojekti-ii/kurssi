@@ -97,10 +97,14 @@ Kukin tiimi esittelee sprintin tulokset opettajille. Tiimit pitävät itsenäise
 
 Tiimit valitsevat käyttäjätarinat sprintille 2 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
+&nbsp;
+
+
 ### 21.-27.2. Talvilomaviikko ⛄ ❄️
 
 Ei kurssin yhteisiä tapaamisia.
 
+&nbsp;
 
 
 ## Sprint 2 *(28.2.-20.3.)*
@@ -129,9 +133,14 @@ Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja ke
 
 Tiimit valitsevat käyttäjätarinat sprintille 2 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
+&nbsp;
+
+
 ### 21.-27.3. Intensiiviviikko
 
 Ei kurssin yhteisiä tapaamisia.
+
+&nbsp;
 
 
 ## Sprint 3 *(28.3.-17.4.)*
@@ -154,6 +163,8 @@ Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 **Vertaisryhmät** toimittavat toisilleen katselmointiraportit lähdekoodin katselmointien tuloksista.
 
 Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
+
+&nbsp;
 
 
 ## Sprint 4 *(18.4.-8.5.)*
@@ -181,8 +192,10 @@ Projektin tunnettujen puutteiden dokumentointi (GitHub issues).
 
 Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille. Viimeisessä sprintissä ei vertaiskatselmoida koodia, vaan projektin "yleisilmettä" painottuen erityisesti Git-repostitorioon ja dokumentaatioon.
 
+&nbsp;
 
-### 9.-22.5. Itse- ja vertaisarvioinnit
+
+## 9.-22.5. Itse- ja vertaisarvioinnit
 
 Kurssin itse- ja vertaisarviointien kirjoittaminen. Oman oppimisen pohdinta.
 
