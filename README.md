@@ -170,7 +170,7 @@ Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja ke
 &nbsp;
 
 
-## Sprint 4 *(18.4.-8.5.)*
+## Sprint 4 *(18.4.-15.5.)*
 
 ### 18.-24.4. Sprint 4:n käynnistys
 
@@ -194,6 +194,8 @@ Projektin tunnettujen puutteiden dokumentointi (GitHub issues).
 ### ~~2.-8.5~~ 9.-15.5. Kurssin loppudemot
 
 Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille. Viimeisessä sprintissä ei vertaiskatselmoida koodia, vaan projektin "yleisilmettä" painottuen erityisesti Git-repostitorioon ja dokumentaatioon.
+
+**Huom!** Loppudemot on siirretty alkuperäisestä suunnitelmasta poiketen viikolla eteenpäin opinnäytetöiden arviointikokousten päällekkäisten aikataulujen vuoksi.
 
 &nbsp;
 
