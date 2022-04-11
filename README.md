@@ -1,6 +1,6 @@
 # Ohjelmistoprojekti II, SWD4TN024
 
-Tämä Git-repositorio sisältää Ohjelmistoprojekti II -kurssin dokumentaation ja tiedostot. Kurssin opettajina toimivat Teemu Havulinna ja Ismo Harjunmaa (etunimi.sukunimi@haaga-helia.fi).
+Tämä Git-repositorio sisältää Ohjelmistoprojekti II -kurssin dokumentaation ja tiedostot. Kurssin opettajina toimivat Teemu Havulinna ja Ismo Harjunmaa (`etunimi.sukunimi@haaga-helia.fi`).
 
 ## Kurssin sisältö
 
