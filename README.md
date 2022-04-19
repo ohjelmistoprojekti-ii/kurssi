@@ -186,11 +186,11 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 
 ### 2.-8.5. Projektin viimeistely
 
-[Projektin dokumentaation viimeistely.](scrum/dokumentointi.md)
+[Ohjeita projektin viimeistelyyn (dokumentointi, stabilointi ja tietoturva).](scrum/projektin-viimeistely.md)
 
 Projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
 
-Projektin tunnettujen puutteiden dokumentointi (GitHub issues).
+Projektin tunnettujen puutteiden dokumentointi ([GitHub issues](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
 
 
 ### ~~2.-8.5~~ 9.-15.5. Kurssin loppudemot
