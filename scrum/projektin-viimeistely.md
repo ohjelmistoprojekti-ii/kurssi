@@ -23,12 +23,14 @@ Tässä lisäksi esimerkkinä erään [aiemman vuoden projektin dokumentaatio](h
 
 Projektin viimeistelyn ja luovutuksen yhteydessä on syytä varmistaa että siihen ei ole jäänyt ilmeisiä huolimattomuudesta tai puutteellisesta konfiguroinnista johtuvia tietoturvahaavoittuvuuksia.
 
-Tyypillisiä konfigurointivirheitä ovat esimerkiksi [suojaamattomat tietokannat](https://snyk.io/blog/mongodb-hack-and-secure-defaults/), jotka ovat helppoja kohteita väärinkäyttäjille. Toinen tyypillinen virhe on lisätä yksityisiä API-avaimia versionhallintaan osana lähdekoodia, tai commitoida vahingossa ympäristömuuttujia sisältäviä .env-tiedostoja.
+Tyypillisiä konfigurointivirheitä ovat esimerkiksi heikot tai oletussalasanat, [suojaamattomat tietokannat](https://snyk.io/blog/mongodb-hack-and-secure-defaults/), jotka ovat helppoja kohteita väärinkäyttäjille. Toinen tyypillinen virhe on lisätä yksityisiä API-avaimia versionhallintaan osana lähdekoodia, tai commitoida vahingossa ympäristömuuttujia sisältäviä .env-tiedostoja.
 
-Mikäli versionhallintaan on päätynyt salaista tietoa, suosittelemme lukemaan artikkelin [Removing sensitive data from a repository](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository). Lisäksi on tärkeää poistaa kaikki paljastuneet salaisuudet käytöstä.
+Mikäli olette projektin aikana valinneet esim. tietokannan tai ylläpitokäyttäjien salasanoiksi heikkoja salasanoja, ne on tässä vaiheessa syytä vaihtaa vahvemmiksi. Mikäli käytössänne on eri tuotteiden oletussalasanoja, niiden vaihtaminen on erityisen tärkeää.
+
+Mikäli versionhallintaan on päätynyt salaista tietoa, kuten API-avaimia, suosittelemme lukemaan artikkelin [Removing sensitive data from a repository](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository). Lisäksi on tärkeää poistaa kaikki paljastuneet salaisuudet käytöstä.
 
 Mikäli projektissanne on käytössä **MongoDB**, lukekaa esimerkiksi MongoDB:n artikkeli [How to Avoid a Malicious Attack That Ransoms Your Data](https://www.mongodb.com/blog/post/how-to-avoid-a-malicious-attack-that-ransoms-your-data).
 
 **Firebase**:n kohdalla lukekaa artikkeli [Fix insecure rules](https://firebase.google.com/docs/firestore/security/insecure-rules) ja varmistakaa, että kukin käyttäjä voi muokata vain omaa dataansa, ja että esimerkiksi tunnistamattomat käyttäjät eivät voi lukea koko tietokannan sisältöä. Virheelliset käyttäjäoikeudet voivat johtaa esimerkiksi siihen, että kuka vain voi ladata koko tietokannan sisällön yksinkertaisesti käymällä tietokantanne osoitteessa `https://tietokanta.firebaseio.com/data.json`.
 
-Huomioikaa oman projektinne arkkitehtuuri ja pohtikaa yhdessä, mitkä ovat projektinne potentiaalisia riskitekijöitä, ja miten voitte minimoida riskejänne.
+Huomioikaa oman projektinne arkkitehtuuri ja pohtikaa yhdessä, mitkä ovat projektinne potentiaalisia riskitekijöitä, ja miten voitte minimoida riskejänne. On toivottavaa, että tietoturvaa on huomioitu projektin aikana esimerkiksi [SQL-](https://owasp.org/www-community/attacks/SQL_Injection) ja [XSS-](https://owasp.org/www-community/attacks/xss/)injektioiden osalta, mutta myös näiden suhteen on hyvä varmistaa, että vahinkoja ei ole päässyt tapahtumaan. Tietoturvan arvioinnin osalta voi olla hyödyllistä käydä esimerkiksi [OWASP Top Ten](https://owasp.org/www-project-top-ten/) -lista läpi, ja arvioida eri tyyppisten haavoittuvuuksien merkitystä omassa ohjelmistossa.
