@@ -10,9 +10,11 @@ Projektin luovutuksen yhteydessä on syytä myös käydä läpi vähintään tyy
 
 ## Dokumentointi
 
-Kurssin puitteissa suosittelemme dokumentoimaan projektinne [markdown-muotoisen readme-tiedoston avulla](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).  Mikäli dokumentaatio on kattava, voi myös [GitHubin wiki](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis) olla hyvä lisä.
+Kurssin puitteissa suosittelemme dokumentoimaan projektinne vähintään [markdown-muotoisen readme-tiedoston avulla](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes). Mikäli dokumentaatiostanne tulee kattava, voitte harkita readme-tiedoston lisäksi myös [**GitHubin wikiä**](https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis), [**GitHub Pages**](https://docs.github.com/en/pages) -sivustoa tai PowerPoint-kalvosettiä, joka voi olla mukana repositoriossanne.
 
-Voitte halutessanne ottaa pohjaksi esimerkiksi [tämän readme.md-templaten](https://github.com/othneildrew/Best-README-Template). Tärkeintä readme-tiedostossa on tarjota ainakin projektin yleiskuvaus ja yleistason tekninen arkkitehtuuri sekä asennusohjeet. Lisäksi käytetyt teknologia ja kirjastot olisi hyvä esitellä, linkittää niihin liittyvät perustutoriaalit ja tarjota mieluusti myös muutama koodiesimerkki oleellisten kohtien käyttämisestä koodissa. Jatkokehitysajatukset olisi hyvä listata [GitHub-issueiden](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) kautta ja viitata niihin readme.md-tiedostossa kuten tuossa templatessa on tehty. 
+Voitte halutessanne ottaa pohjaksi esimerkiksi [tämän readme.md-templaten](https://github.com/othneildrew/Best-README-Template). Tärkeintä readme-tiedostossa on tarjota ainakin projektin yleiskuvaus ja yleistason tekninen arkkitehtuuri sekä asennusohjeet. Lisäksi käytetyt teknologia ja kirjastot olisi hyvä esitellä, linkittää niihin liittyvät perustutoriaalit ja tarjota mieluusti myös muutama koodiesimerkki oleellisten kohtien käyttämisestä koodissa. Lisätkää readme-tiedostoon myös kuvaukset mahdollisista automaatioista (esim. GitHub actions).
+
+Jatkokehitysajatukset on hyvä dokumentoida [GitHub-issueiden](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue) kautta ja viitata niihin readme.md-tiedostossa kuten edellä mainitussa [templatessa on tehty](https://github.com/othneildrew/Best-README-Template/issues?q=).
 
 Lisäksi olisi hienoa löytää projektistanne joku timanttisin ydin, josta saattaisi olla eniten hyötyä ulkopuolisille ja tarjota se osa selkeästi käytettävän rajapinnan (API) kautta ulos. Tämä rajapinta voi olla toki mahdollisesti REST:iä, jos tämä ydin on luonteeltaan verkkopalvelu. Se voi olla myös dokumentoituja funktioita ja luokkia, jotka oikein käytettyinä tarjoavat ulkopuolisille kehittäjille jotain kiinnostavaa. Voit tutustua esimerkiksi [täällä](https://github.com/mitogh/react-native-image-placeholder) siihen, miten React Native Image Placeholder -paketti on dokumentoitu muita kehittäjiä ajatellen.
 
@@ -23,7 +25,7 @@ Tässä lisäksi esimerkkinä erään [aiemman vuoden projektin dokumentaatio](h
 
 Projektin viimeistelyn ja luovutuksen yhteydessä on syytä varmistaa että siihen ei ole jäänyt ilmeisiä huolimattomuudesta tai puutteellisesta konfiguroinnista johtuvia tietoturvahaavoittuvuuksia.
 
-Tyypillisiä konfigurointivirheitä ovat esimerkiksi heikot tai oletussalasanat, [suojaamattomat tietokannat](https://snyk.io/blog/mongodb-hack-and-secure-defaults/), jotka ovat helppoja kohteita väärinkäyttäjille. Toinen tyypillinen virhe on lisätä yksityisiä API-avaimia versionhallintaan osana lähdekoodia, tai commitoida vahingossa ympäristömuuttujia sisältäviä .env-tiedostoja.
+Tyypillisiä konfigurointivirheitä ovat esimerkiksi heikot salasanat tai [täysin suojaamattomat tietokannat](https://snyk.io/blog/mongodb-hack-and-secure-defaults/), jotka ovat helppoja kohteita väärinkäyttäjille. Toinen tyypillinen virhe on lisätä yksityisiä API-avaimia versionhallintaan osana lähdekoodia, tai commitoida vahingossa ympäristömuuttujia sisältäviä .env-tiedostoja.
 
 Mikäli olette projektin aikana valinneet esim. tietokannan tai ylläpitokäyttäjien salasanoiksi heikkoja salasanoja, ne on tässä vaiheessa syytä vaihtaa vahvemmiksi. Mikäli käytössänne on eri tuotteiden oletussalasanoja, niiden vaihtaminen on erityisen tärkeää.
 
