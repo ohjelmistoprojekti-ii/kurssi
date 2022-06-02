@@ -27,6 +27,11 @@ Katso myös:
 * [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
 
+## 📑 Aiemmin hankitun osaamisen tunnistaminen (AHOT)
+
+Jos olet hankkinut tämän opintojakson mukaisen osaamisen työsi kautta, voit osoittaa osaamisesi tavanomaisen osallistumisen sijasta AHOT-menettelyllä. Osaamisen tunnistamiseksi ilmoittaudu tälle kurssille normaalisti, ja ole yhteydessä kurssin opettajiin AHOT-järjestelyjen osalta kurssin ensimmäisen viikon aikana.
+
+
 # 📅 Kurssin aikataulu *(kevät 2022)*
 
 Kurssin tapaamiset järjestetään Haaga-Helian linjausten mukaisesti toistaiseksi etänä MS Teams -sovelluksessa seuraavan aikataulun mukaisesti:
