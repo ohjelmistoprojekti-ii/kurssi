@@ -87,3 +87,7 @@
 * https://swapi.dev
 
     > Star Wars API
+
+* https://www.tradingview.com/widget/advanced-chart/
+
+    > Osakekurssien graafeja embedded moodissa
