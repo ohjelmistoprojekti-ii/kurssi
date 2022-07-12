@@ -1,6 +1,6 @@
 # Retrospektiivi
 
-Järjestäkää Sprintin jälkeen Scrumin mukainen retrospektiivi. Retrospektiivin tarkoituksena on kehittää tiimin toimintaa. Retrospektiivissä pohditaan mikä meni hyvin ja missä voisimme parantaa.
+Järjestäkää Sprintin jälkeen Scrumin mukainen retrospektiivi. Retrospektiivin tarkoituksena on kehittää tiimin toimintaa. Retrospektiivissä pohditaan mikä meni hyvin, missä tiimi voisi parantaa ja missä sidosryhmät voisivat parantaa.
 
 Parannusehdotukset muotoillaan konkreettisiksi Action pointeksi, jotka toteututaan seuraavassa sprintissä. Jos tiimi esimerkiksi retrospektiivin tuloksena haluaa parantaa koodinsa laatua kirjoittamalla yksikkötestejä, voidaan Action pointiksi kirjata että jokainen tiimin jäsen kirjoittaa seuraavassa sprintissä yhden yksikkötestin. Se on konkreettinen ja selkeästi todennettava Action point.
 
