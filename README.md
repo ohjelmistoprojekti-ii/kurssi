@@ -148,7 +148,7 @@ Ei kurssin yhteisiä tapaamisia.
 &nbsp;
 
 
-## Sprint 3 *(28.3.-17.4.)*
+## Sprint 3 *(24.10.-13.11.)*
 
 ### 24.-30.10. Sprint 3:n käynnistys
 
