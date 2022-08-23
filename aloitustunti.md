@@ -123,9 +123,7 @@ Tulemme kurssin puitteissa tekemään koodin katselmointeja (code review), joist
 * "Liikeidea"
 * Hauska peli (wordle?, sanuli?)
 * Olemassa olevaan Open Source -projektiin kontribuointi?
-* Hackathon?
-    * [KemiraHackathon](https://www.jamk.fi/en/Research-and-Development/RDI-Projects/biopaavo/biopaavo/hackathon/kemira-hackathon/)
-    * [ValtraHackathon](https://www.jamk.fi/en/Research-and-Development/RDI-Projects/biopaavo/biopaavo/hackathon/valtra-hackathon/)
+* Hackathon
 * Funktionaalinen ohjelmointi
 * Mitä työuraansa aloittavalta ohjelmistokehittäjältä vaaditaan?
 
