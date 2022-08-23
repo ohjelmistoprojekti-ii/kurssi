@@ -6,9 +6,7 @@ Sujuvan tiimityöskentelyn osalta tämä kurssi on perinteisesti mennyt varsin m
 
 Erityisesti etänä ja korona-aikana tiimityöskentelyn ja kommunikoinnin merkitys kasvaa, ja tiimien tuleekin löytää hyvät käytännöt projektin läpivientiin etätyön haasteista huolimatta. Työskentely ei välttämättä suju täydellisesti heti ensimmäisessä sprintissä, ja siksi pidämme sprinttien välissä retrospektiivit ja kehitämme toimintaa.
 
-Aikaisemmilla etätoteutuksilla esimerkiksi Discord ja VS Code:n live share ovat saaneet kehuja opiskelijoilta. Kannustamme lisäksi pitämään keskenäisissä tapaamisissa kameroita ja mikrofoneja päällä, ja vähintään lisäämään itsellenne profiilikuvan, jotta ette keskustele vain nimikirjaimille.
-
-Mikäli etätyöohjeistus muuttuu esimerkiksi tammikuun jälkeen, muutamme opetusjärjestelyjä sen mukaisesti.
+Aikaisemmilla teutuksilla esimerkiksi Discord ja VS Code:n live share ovat saaneet kehuja opiskelijoilta. Kannustamme lisäksi pitämään keskenäisissä tapaamisissa kameroita ja mikrofoneja päällä, ja vähintään lisäämään itsellenne profiilikuvan, jotta ette keskustele vain nimikirjaimille.
 
 
 ## Kurssin opetus- ja oppimismenetelmät
