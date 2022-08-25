@@ -69,7 +69,6 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
     * Jakautuminen tiimeihin. Tiimin tavoitekoko on 5 henkilöä.
     * [Palvelujen kehittämisen menetelmät (haaga-helia.fi)](https://www.haaga-helia.fi/fi/tool-factory-menetelmat-palvelujen-kehittamiseen)
-    * Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
 
 
 ### 29.8.-4.9. "define sprint"
@@ -82,7 +81,9 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 * Torstai
 
-    Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista
+    * GitHub project -palvelun nopea intro
+    * Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
+    * Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista
 
     **Tehtävä**: define-vaiheen tulosten raportointi opettajille sunnuntai-iltaan mennessä. User storyjen tai taskien valinta ensimmäiselle sprintille. Scrum boardin jakaminen opettajille.
 
