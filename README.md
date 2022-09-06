@@ -94,9 +94,11 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 ## Sprint 1 *(5.-25.9.)*
 
+Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa. Koko kurssin yhteisiä tilaisuuksia ei järjestetä, mutta ohjausta on saatavilla Teamsissa ja kampuksella lukujärjestyksen mukaisesti. Sprintti päättyy tiimikohtaisiin katselmointeihin.
+
 ### 5.-11.9. Sprint 1:n käynnistys
 
-Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Kukin tiimi pitää opettajien kanssa tapaamisen define-tulosten sekä ensimmäisen sprintin backlogin esittelemiseksi.
+Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista pääsääntöisesti Teams-kanavilla.
 
 ### 12.-18.9.
 
