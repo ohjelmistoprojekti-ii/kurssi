@@ -180,35 +180,37 @@ Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja ke
 
 ## Sprint 4 *(14.11.-4.12.)*
 
+Tiimit pyrkivät viimeisessä sprintissä stabiloimaan projektinsa, eli he keskittyvät erityisesti toimintavarmuuden takaamiseen uusien ominaisuuksien jäädessä pienemmälle painoarvolle.
+
+Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
+
+
 ### 14.-20.11. Sprint 4:n käynnistys
 
-Tiimit pyrkivät viimeisessä sprintissä stabiloimaan projektinsa, eli he keskittyvät erityisesti toimintavarmuuden takaamiseen uusien ominaisuuksien jäädessä pienemmälle painoarvolle.
+Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
+
 
 ### 21.-27.11.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
-
-### 28.11.-4.12. Projektin viimeistely
+Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Viimeisessä sprintissä ei vertaiskatselmoida koodia, vaan projektin "yleisilmettä" painottuen erityisesti Git-repostitorioon ja dokumentaatioon.
 
 [Ohjeita projektin viimeistelyyn (dokumentointi, stabilointi ja tietoturva).](scrum/projektin-viimeistely.md)
 
-Projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
 
-Projektin tunnettujen puutteiden dokumentointi ([GitHub issues](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
+### 28.11.-4.12. Projektien loppudemot
+
+Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille.
+
+Muistakaa myös dokumentoida projektinne mahdolliset tunnettut puutteet ja bugit ([GitHub issueina](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
 
 
-### 5.-11.12. Kurssin loppudemot
-
-Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille. Viimeisessä sprintissä ei vertaiskatselmoida koodia, vaan projektin "yleisilmettä" painottuen erityisesti Git-repostitorioon ja dokumentaatioon.
-
-Itsenäisyyspäivän vuoksi katselmointiaikataulu poikkeaa aikaisempien sprinttien aikataulusta.
 
 &nbsp;
 
 
-## 12.-18.12. Itse- ja vertaisarvioinnit
+### 5.-11.12. Itse- ja vertaisarvioinnit
 
 Kurssin itse- ja vertaisarviointien kirjoittaminen ja oman oppimisen pohdinta.
 
