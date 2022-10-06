@@ -11,10 +11,10 @@ Alkuvaiheessa koodin tai katselmointien laadun ei tarvitse olla häikäisevää,
 
 **TL;DR: tärkeimmät actionpointit:**
 
-1. Lähettäkää katselmointipyyntö vertaisryhmällenne Teamsiin vertaisryhmän kanavalle viimeistään 4 vuorokautta ennen sprintin katselmointia.
+1. Lähettäkää katselmointipyyntö vertaisryhmällenne Teamsiin vertaisryhmän kanavalle viimeistään 2 arkipäivää ennen sprintin demoa.
 2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta.
 3. Kertokaa katselmointipyynnössänne lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet koodin toimivuuden.
-4. Katselmoikaa vertaisryhmänne koodi ja kirjoittakaa heidän Teams-kanavalleen katselmointipalaute viimeistään vuorokautta ennen demoa.
+4. Katselmoikaa vertaisryhmänne koodi ja kirjoittakaa heidän Teams-kanavalleen katselmointipalaute ennen sprintin demoa.
 
 ## Käytännöt
 
@@ -31,7 +31,7 @@ Antamanne palautteen ei tarvitse välttämättä pohjautua annettuihin lähteisi
 
 ## Projektin valmistelu katselmoitavaksi
 
-Osa projekteista koostuu useista eri osista, kuten front-endistä ja back-endistä. Projekteissa on myös merkittäviä osia valmiista tutoriaaleista tai malliprojekteista lainattuja osia, joiden katselmointi ei ole ryhmän kehittymisen kannalta kovin hyödyllistä. Siksi jokaisen ryhmän on rajattava omasta projektista "kourallinen" koodia, eli suuruusluokkaa 2-5 tiedostoa tai **100-200 riviä**, joista toivotte eniten saavanne palautetta.
+Osa projekteista koostuu useista eri osista, kuten front-endistä ja back-endistä. Projekteissa on myös merkittäviä osia valmiista tutoriaaleista tai malliprojekteista lainattuja osia, joiden katselmointi ei ole ryhmän kehittymisen kannalta kovin hyödyllistä. Siksi jokaisen ryhmän on rajattava omasta projektista "kourallinen" koodia, eli suuruusluokkaa 1-2 tiedostoa tai **100-200 riviä**, joista toivotte eniten saavanne palautetta.
 
 Lähettäkää vertaisryhmänne Teams-kanavalle linkki koodeihinne sekä selkeästi eriteltynä ne tiedostot, luokat, funktiot tai muut yksiköt joista toivotte palautetta. Kertokaa katselmointipyynnössänne myös lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet katselmoitavan koodin toimivuuden.
 
@@ -40,11 +40,11 @@ Lähettäkää vertaisryhmänne Teams-kanavalle linkki koodeihinne sekä selkeä
 
 ## Projektin katselmointi
 
-Katselmointi suositellaan tehtäväksi koko tiimin voimin hyödyntäen esimerkiksi Discordia tai Teamsia ruudunjakoa. Katselmoinnin yhteydessä käytävä keskustelu on myös erinomainen tilaisuus oppia itse.
+Katselmointi suositellaan tehtäväksi koko tiimin voimin joko lähityöskentelynä tai hyödyntäen esimerkiksi Discordia tai Teamsia ruudunjakoa. Katselmoinnin yhteydessä käytävä keskustelu on myös erinomainen tilaisuus oppia itse.
 
 Google on dokumentoinut omia katselmointikäytäntöjään "Best practices" -sivuilleen (https://github.com/google/eng-practices) ja "How to do a code review" -dokumenttiin (https://github.com/google/eng-practices/blob/master/review/reviewer/index.md).
 
-Tässä katselmoinnissa ei ole tarpeen puuttua kaikkiin mahdollisiin koodissa oleviin haasteisiin ja keskeneräisyyksiin, vaan painottaa sellaisia asioita, joihin pystytte kontribuoimaan positiivisesti.
+Tässä katselmoinnissa ei ole tarpeen puuttua kaikkiin mahdollisiin koodissa oleviin haasteisiin ja keskeneräisyyksiin, vaan **painottaa sellaisia asioita, joihin pystytte kontribuoimaan positiivisesti**.
 
 Nimeäminen, ymmärrettävyys, kommentointi ja koodin rakenne voivat olla hyviä ehdokkaita palautteelle. Jos jokin kohta koodissa vaikuttaa tarpeettoman monimutkaiselta, yrittäkää pohtia, miten sitä voitaisiin pilkkoa osiin tai yksinkertaistaa ja liittäkää ehdotus mukaan palautteeseenne.
 
