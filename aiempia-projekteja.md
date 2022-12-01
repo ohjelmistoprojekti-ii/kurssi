@@ -12,6 +12,14 @@ https://play.unity.com/mg/other/escape-from-tokyo-1-0
 
 https://github.com/UnityLasna/Unity-Project
 
+
+### Salakonna
+
+"SalaKonna is a Discord bot that allows its users to have conversations with each other while remaining anonymous under a pseudonym."
+
+https://github.com/Discordin-moniosaajat/SalaKonna
+
+
 ### BLOOM
 
 "The main idea is to take care of a flower which will grow when user is taking care of themselfes, and starts to die when not."
