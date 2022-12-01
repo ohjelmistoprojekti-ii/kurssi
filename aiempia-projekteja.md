@@ -4,6 +4,13 @@ Olemme listanneet tälle sivulle esimerkkejä aikaisempien lukukausien projektei
 
 Valinta on tehty melko satunnaisesti, ja mikäli haluat linkin oman ryhmänne projektiin tälle sivulle, voit tehdä pull requestin tai pyytää lisäämistä opettajilta sähköpostiste.
 
+### Escape from Tokyo
+
+"Escape from Tokyo is a 2D platformer game. First level is done, enjoy."
+
+https://play.unity.com/mg/other/escape-from-tokyo-1-0
+
+https://github.com/UnityLasna/Unity-Project
 
 ### BLOOM
 
