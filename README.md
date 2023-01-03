@@ -53,7 +53,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 ## Sprint 0: Projektien käynnistys *(16.1.-29.1.)*
 
-### Kalenteriviikko 3: tiimien muodostaminen
+### 📅 3: tiimien muodostaminen
 
 Kurssin käytäntöjen ja tavoitteiden käsittely.
 
@@ -67,7 +67,7 @@ Kurssin käytäntöjen ja tavoitteiden käsittely.
 &nbsp;
 
 
-### Kalenteriviikko 4: "define sprint"
+### 📅 4: "define sprint"
 
 Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off
 
@@ -91,21 +91,21 @@ Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamise
 &nbsp;
 
 
-### Kalenteriviikko 5: Sprint 1:n käynnistys
+### 📅 5: Sprint 1:n käynnistys
 
 Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista pääsääntöisesti Teams-kanavilla.
 
 &nbsp;
 
 
-### Kalenteriviikko 6
+### 📅 6
 
 Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 &nbsp;
 
 
-### Kalenteriviikko 7: Sprint 1 katselmoinnit
+### 📅 7: Sprint 1 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille. Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
@@ -125,14 +125,14 @@ Ei kurssin yhteisiä tapaamisia.
 
 ## Sprint 2 *(27.2.-19.3.)*
 
-### Kalenteriviikko 9: Sprint 2:n käynnistys
+### 📅 9: Sprint 2:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 &nbsp;
 
 
-### Kalenteriviikko 10
+### 📅 10
 
 Sprint 2 työskentely jatkuu. Opettajat nimeävät jokaiselle tiimille **vertaisryhmän**, jotka **katselmoivat toistensa lähdekoodit** ja antavat palautetta demoissa.
 
@@ -143,7 +143,7 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 &nbsp;
 
 
-### Kalenteriviikko 11: Sprint 2 katselmoinnit
+### 📅 11: Sprint 2 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
@@ -174,14 +174,14 @@ Ei kurssin yhteisiä tapaamisia.
 
 ## Sprint 3 *(27.3.-16.4.)*
 
-### Kalenteriviikko 13: Sprint 3:n käynnistys
+### 📅 13: Sprint 3:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 &nbsp;
 
 
-### Kalenteriviikko 14
+### 📅 14
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -190,7 +190,7 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 &nbsp;
 
 
-### Kalenteriviikko 15: Sprint 3 katselmoinnit
+### 📅 15: Sprint 3 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
@@ -210,14 +210,14 @@ Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mah
 &nbsp;
 
 
-### Kalenteriviikko 16: Sprint 4:n käynnistys
+### 📅 16: Sprint 4:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 &nbsp;
 
 
-### Kalenteriviikko 17
+### 📅 17
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -228,7 +228,7 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 &nbsp;
 
 
-### Kalenteriviikko 18: Projektien loppudemot
+### 📅 18: Projektien loppudemot
 
 Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille.
 
