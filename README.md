@@ -123,7 +123,9 @@ Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hy�
 
 ### 📅 16.2. Sprint 1 katselmoinnit
 
-Kukin tiimi esittelee sprintin tulokset opettajille. Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
+Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (readme). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
+
+Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehittäjällä.
 
 **Sprint 2 planning**
 
@@ -161,7 +163,7 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 
 ### 📅 16.3. Sprint 2 katselmoinnit
 
-Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
+Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille. **Mahdollisuuksien mukaan sovelluksen tulisi olla ajossa tuotantoympäristöä vastaavassa ympäristössä**, tai tuotantoympäristön tulisi olla vähintään valittu perustellusti.
 
 **Vertaisryhmät** toimittavat toisilleen katselmointiraportit lähdekoodin katselmointien tuloksista.
 
