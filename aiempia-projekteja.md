@@ -12,13 +12,29 @@ https://play.unity.com/mg/other/escape-from-tokyo-1-0
 
 https://github.com/UnityLasna/Unity-Project
 
-
 ### Salakonna
 
 "SalaKonna is a Discord bot that allows its users to have conversations with each other while remaining anonymous under a pseudonym."
 
 https://github.com/Discordin-moniosaajat/SalaKonna
 
+### DuuniApp
+
+"DuuniApp utilizes Scrapy to gather data about available job positions from different web sites."
+
+https://github.com/Ohjelmistoprojekti-2
+
+### Hello Strangers App
+
+"With Hello Strangers users can explore and create events based on own interests."
+
+https://github.com/Tapahtumatinder/Hello_Strangers_App
+
+### Airplane GO
+
+"Airplane GO is an Android and iOS application for surveying nearby planes and collecting plane cards."
+
+https://github.com/Lentokonebongaus/lentokonebongaus
 
 ### BLOOM
 
