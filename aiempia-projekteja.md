@@ -18,6 +18,32 @@ https://github.com/UnityLasna/Unity-Project
 
 https://github.com/Discordin-moniosaajat/SalaKonna
 
+### Mursupeli
+
+"This project is 2D platformer game made for school. It is not representative of a final product It has been made with Unity and it uses C# language."
+
+https://github.com/UnityMursu/Mursupeli
+
+### Päikkyposti
+
+"Päikkypostin tarkoituksena on helpottaa huoltajan ja päiväkodin välistä kommunikaatiota."
+
+https://github.com/lauraemh/paikkyposti
+
+### Triviapeli
+
+"A trivia drinking game app to play alone or with friends!"
+
+https://github.com/HC-koodarit/Triviapeli
+
+### Urheilukello App
+
+"A Strava mobile application for IOS and Android"
+
+https://expo.dev/@jaakkoa/urheilukelloappi
+
+https://github.com/JuokseeJuoksee/JuokseeSovellus
+
 ### DuuniApp
 
 "DuuniApp utilizes Scrapy to gather data about available job positions from different web sites."
