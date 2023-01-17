@@ -36,10 +36,26 @@ Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät [erilliseltä sivulta](./a
 
 # 📅 Kurssin aikataulu *(kevät 2023)*
 
-Kurssin yhteiset tapaamiset järjestetään viikoittain seuraavasti:
+Kurssista järjestetään keväällä 2023 kaksi toteutusta. Kurssin yhteiset tapaamiset järjestetään viikoittain seuraavasti:
 
-* Yhteiset tapaamiset **torstaisin klo 11-13.45 luokassa 5006**
-* Itsenäinen opiskeluaika **maanantaisin klo 14-16.45 luokassa 5006**
+**Toteutus SWD4TN024-3009:**
+
+* 3\. ja 4\. periodi
+
+    * Yhteiset tapaamiset **torstaisin 11-13.45 luokassa 5006**.
+    * Itsenäinen opiskeluaika **maanantaisin klo 14-16.45 luokassa 5006**.
+
+**Toteutus SWD4TN024-3013:**
+
+* 3\. periodi
+    * Yhteiset tapaamiset **torstaisin 8-10.45 luokassa 5006**.
+    * Itsenäinen opiskeluaika **tiistaisin klo 8-10.45 luokassa 5006**.
+
+* 4\. periodi
+    * Yhteiset tapaamiset **torstaisin 8-10.45 luokassa 5008**.
+    * Itsenäinen opiskeluaika **tiistaisin klo 8-10.45 luokassa 5008**.
+
+
 
 Itsenäisillä opiskelukerroilla opettajat eivät ole pääsääntöisesti tavoitettavissa.
 
@@ -53,7 +69,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 ## Sprint 0: Projektien käynnistys *(16.1.-29.1.)*
 
-### 📅 3: tiimien muodostaminen
+### 📅 19.1. tiimien muodostaminen
 
 Kurssin käytäntöjen ja tavoitteiden käsittely.
 
@@ -67,7 +83,7 @@ Kurssin käytäntöjen ja tavoitteiden käsittely.
 &nbsp;
 
 
-### 📅 4: "define sprint"
+### 📅 26.1. "define sprint"
 
 Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off
 
@@ -91,21 +107,21 @@ Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamise
 &nbsp;
 
 
-### 📅 5: Sprint 1:n käynnistys
+### 📅 2.2. Sprint 1:n käynnistys
 
 Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista pääsääntöisesti Teams-kanavilla.
 
 &nbsp;
 
 
-### 📅 6
+### 📅 9.2.
 
 Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 &nbsp;
 
 
-### 📅 7: Sprint 1 katselmoinnit
+### 📅 16.2. Sprint 1 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille. Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
@@ -125,14 +141,14 @@ Ei kurssin yhteisiä tapaamisia.
 
 ## Sprint 2 *(27.2.-19.3.)*
 
-### 📅 9: Sprint 2:n käynnistys
+### 📅 2.3. Sprint 2:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 &nbsp;
 
 
-### 📅 10
+### 📅 9.3.
 
 Sprint 2 työskentely jatkuu. Opettajat nimeävät jokaiselle tiimille **vertaisryhmän**, jotka **katselmoivat toistensa lähdekoodit** ja antavat palautetta demoissa.
 
@@ -143,7 +159,7 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 &nbsp;
 
 
-### 📅 11: Sprint 2 katselmoinnit
+### 📅 16.3. Sprint 2 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
@@ -174,14 +190,14 @@ Ei kurssin yhteisiä tapaamisia.
 
 ## Sprint 3 *(27.3.-16.4.)*
 
-### 📅 13: Sprint 3:n käynnistys
+### 📅 30.3. Sprint 3:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 &nbsp;
 
 
-### 📅 14
+### 📅 6.4.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -190,7 +206,7 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 &nbsp;
 
 
-### 📅 15: Sprint 3 katselmoinnit
+### 📅 13.4. Sprint 3 katselmoinnit
 
 Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
@@ -210,14 +226,14 @@ Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mah
 &nbsp;
 
 
-### 📅 16: Sprint 4:n käynnistys
+### 📅 20.4. Sprint 4:n käynnistys
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
 &nbsp;
 
 
-### 📅 17
+### 📅 27.4.
 
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
@@ -228,7 +244,7 @@ Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet
 &nbsp;
 
 
-### 📅 18: Projektien loppudemot
+### 📅 4.5. Projektien loppudemot
 
 Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille.
 
