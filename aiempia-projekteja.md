@@ -32,7 +32,7 @@ https://github.com/lauraemh/paikkyposti
 
 ### Triviapeli
 
-"A trivia drinking game app to play alone or with friends!"
+"A trivia ~~drinking~~ game app to play alone or with friends!"
 
 https://github.com/HC-koodarit/Triviapeli
 
