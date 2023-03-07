@@ -11,7 +11,7 @@ Alkuvaiheessa koodin tai katselmointien laadun ei tarvitse olla häikäisevää,
 
 **TL;DR: tärkeimmät actionpointit:**
 
-1. Lähettäkää katselmointipyyntö vertaisryhmällenne Teamsiin vertaisryhmän kanavalle viimeistään 2 arkipäivää ennen sprintin demoa.
+1. Lähettäkää katselmointipyyntö vertaisryhmällenne Teamsiin vertaisryhmän kanavalle hyvissä ajoin ennen sprintin demoa.
 2. Katselmointipyynnössä tulee eritellä noin 100-200 riviä, josta haluatte saada palautetta.
 3. Kertokaa katselmointipyynnössänne lyhyesti, miten valitsemanne koodin laatu on varmistettu. Voitte esimerkiksi laittaa linkin automatisoituihin testeihin tai kuvailla muuten millä tavoin olette varmistaneet koodin toimivuuden.
 4. Katselmoikaa vertaisryhmänne koodi ja kirjoittakaa heidän Teams-kanavalleen katselmointipalaute ennen sprintin demoa.
@@ -51,4 +51,4 @@ Nimeäminen, ymmärrettävyys, kommentointi ja koodin rakenne voivat olla hyviä
 
 ## Muistakaa positiivinen henki
 
-Toisen työn kommentointiin liittyy aina riski kritiikin aiheuttamasta mielipahasta. Pyritään siis löytämään kaverin koodista hyviä piirteitä ja antamaan konkreettisia kehitysehdotuksia kritiikin sijaan. Otetaan myös palaute vastaan hyvillä mielin: kukaan ei odota tiimien työn olevan täydellistä ja tämänkin työvaiheen tarkoitus on kehittyä ohjelmistokehittäjinä.
+Toisen työn kommentointiin liittyy aina riski kritiikin aiheuttamasta tarpeettomasta mielipahasta. Pyritään siis löytämään kaverin koodista hyviä piirteitä ja antamaan konkreettisia kehitysehdotuksia pelkän kritiikin sijasta. Otetaan myös palaute vastaan hyvillä mielin: kukaan ei odota tiimien työn olevan täydellistä ja tämänkin työvaiheen tarkoitus on kehittyä ohjelmistokehittäjinä.
