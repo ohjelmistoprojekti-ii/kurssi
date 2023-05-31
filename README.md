@@ -1,6 +1,6 @@
-# Ohjelmistoprojekti II, SWD4TN024
+# Ohjelmistoprojekti 2, SOF007AS3A <!--SWD4TN024-->
 
-Tämä Git-repositorio sisältää Ohjelmistoprojekti II -kurssin dokumentaation ja tiedostot. Kurssin opettajina toimivat Teemu Havulinna ja Ismo Harjunmaa (`etunimi.sukunimi@haaga-helia.fi`).
+Tämä Git-repositorio sisältää Ohjelmistoprojekti II -kurssin dokumentaation ja tiedostot.
 
 ## Kurssin sisältö
 
@@ -22,7 +22,7 @@ Kurssin lopputulokset julkaistaan lähtökohtaisesti avoimella lisenssillä.
 
 Katso myös:
 
-* [opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SWD4TA024)
+* [opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF007AS3A)
 * [Scrum guides](https://scrumguides.org/)
 * [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
