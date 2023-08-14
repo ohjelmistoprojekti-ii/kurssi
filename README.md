@@ -163,7 +163,7 @@ Kurssin ensimmäisen itsearvioinnin kirjoittaminen ja oman oppimisen pohdinta. T
 &nbsp;
 
 
-## 16.-22.3. Intensiiviviikko
+## 16.-22.10. Intensiiviviikko
 
 Ei kurssin yhteisiä tapaamisia.
 
