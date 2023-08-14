@@ -4,9 +4,9 @@
 
 Sujuvan tiimityöskentelyn osalta tämä kurssi on perinteisesti mennyt varsin mallikkaasti. Keskeytyksiä on tullut kohtuullisen vähän ja vertaispalautteissa suurin osa tiimeistä on tyytyväisiä kaikkien tiimiläisten osallistumiseen ja tuloksiin. "Vapaamatkustusta" on tapahtunut hyvin vähän, joskin toisinaan osalla tiimiläisistä on ollut selvästi erilaiset oppimis- ja arvosanatavoitteet kuin toisilla.
 
-Erityisesti etänä tiimityöskentelyn ja kommunikoinnin merkitys kasvaa, ja tiimien tuleekin löytää hyvät käytännöt projektin läpivientiin etätyön haasteista huolimatta. Työskentely ei välttämättä suju täydellisesti heti ensimmäisessä sprintissä, ja siksi pidämme sprinttien välissä retrospektiivit ja kehitämme toimintaa.
+Erityisesti etänä tiimityöskentelyn ja kommunikoinnin merkitys kasvaa, ja tiimien tuleekin löytää hyvät käytännöt projektin läpivientiin etätyön haasteista huolimatta. Työskentely ei välttämättä suju täydellisesti heti ensimmäisessä sprintissä ja siksi pidämme sprinttien välissä retrospektiivit ja kehitämme toimintaa.
 
-Aikaisemmilla teutuksilla esimerkiksi Discord ja VS Code:n live share ovat saaneet kehuja opiskelijoilta. Kannustamme lisäksi pitämään keskenäisissä tapaamisissa kameroita sekä mikrofoneja päällä ja vähintään lisäämään itsellenne profiilikuvan, jotta ette keskustele vain nimikirjaimille.
+Aikaisemmilla teutuksilla esimerkiksi Discord ja VS Code:n live share ovat saaneet kehuja opiskelijoilta. Kannustamme teitä tapaamaan kampuksella ja pitämään etätapaamisissa kameroita sekä mikrofoneja päällä. Lisätkää itsellenne vähintään profiilikuvat, jotta ette keskustele vain nimikirjaimille.
 
 
 ## Kurssin opetus- ja oppimismenetelmät
@@ -19,7 +19,7 @@ Tarkempaa ideaa ja konseptia ehditään tarkentamaan seuraavalla viikolla, kun t
 
 Olemme siirtyneet Moodlesta GitHubiin sekä Teamsiin. Moodleen ei tämän hetken vision mukaan ole tulossa sisältöä.
 
-📣 Mikäli käytätte tiimin sisäisesti esim. Discordia, huolehtikaa siitä, että seuraatte aktiivisesti myös kurssin viestintää Teamsissa.
+📣 Mikäli käytätte tiimin sisäisesti esimerkiksi Discordia, huolehtikaa siitä, että seuraatte aktiivisesti myös kurssin viestintää Teamsissa.
 
 
 ## Tämä kurssi suhteessa kokonaisuuteen
@@ -89,7 +89,7 @@ Tällä kurssilla pyritään hyödyntämään toisten kehittämiä ratkaisuja, j
 
 Avoimella datalla tulee mahdollisesti olemaan suuri merkitys tulevaisuuden innovaatioissa! Kuka tahansa voi saada reaaliaikaista tietoa esimerkiksi Suomen tie- ja raideverkosta sekä reaaliaikaiset sijainti- ja sensoritiedot pääkaupunkiseudun linja-autoista. Mitä erilaisia palveluita näiden varaan voitaisiin rakentaa? Entä mitä muuta dataa voisimme yhdistää näihin, tai mitä voisimme tuotttaa näiden perusteella?
 
-\* Katso myös erillinen sivu rajapinnoista
+\* Katso myös [erillinen sivu rajapinnoista](./avoimet-rajapinnat.md)
 
 
 ## Projektityöskentely
@@ -101,7 +101,7 @@ Tiimien tulee siis määritellä ja hallita projektiaan systemaattisesti, eikä 
 
 # Suositeltuja panostamisen kohteita
 
-Tässä projektissa kannattaa työskennellä esimerkiksi uudella ohjelmointikielellä (Python, TypeScript, Kotlin (Android), C# (Unity)) tai uudella lähestymistavalla (Node RED).
+Tässä projektissa kannattaa työskennellä sellaisella ohjelmointikielellä, jossa haluatte kehittyä ja jonka osaamisesta teille on hyötyä ohjelmistoalalla.
 
 Kannustamme kaikkia tiimejä panostamaan työssään laadunvarmistukseen erityisesti testiautomaation parissa. Myös staattisen analyysin työkalujen sekä CI-työkalujen käyttö, kuten GitHub actions, on erittäin suositeltavaa.
 
@@ -131,11 +131,11 @@ Tulemme kurssin puitteissa tekemään koodin katselmointeja (code review), joist
 
 # Esimerkkejä mahdollisista projekteista
 
-* Kaupunkipyörät (jokainen tehty matka pääkaupunkiseudulla)
-* Bussitutka.fi
-* Sanuli
-* Vaalit? (esim. Ylen vaalikonedata)
-* Ilmatieteen laitos
-* Sähkön pörssihinta
+* [Kaupunkipyörät (jokainen tehty matka pääkaupunkiseudulla)](https://hri.fi/data/fi/dataset?vocab_keywords_fi=kaupunkipy%C3%B6r%C3%A4t)
+* [Bussitutka.fi](https://bussitutka.fi/)
+* [Sanuli](https://github.com/Cadiac/sanuli)
+* [Avoimen lähdekoodin vaalikonealusta](https://openvaa.org/)
+* [Ilmatieteen laitos](https://www.ilmatieteenlaitos.fi/avoin-data)
+* [Sähkön pörssihinta](https://spot-hinta.fi/)
 * Avoimen datan lisäksi on olemassa myös muuta dataa, jonka varaan palveluita voidaan rakentaa. Aikaisemmalla toteutuksella eräs opiskelija teki ohjelmiston joka käsitteli Spotify:n dataa, joka oli saatu GDPR:n mukaisen tietopyynnön kautta.
 

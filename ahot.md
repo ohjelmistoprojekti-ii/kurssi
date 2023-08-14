@@ -12,4 +12,3 @@ Ole kurssin opettajiin yhteydessä [sähköpostitse](./README.md) ja kerro hakev
 
 Jos olet ahotoimassa muita kursseja saman työsuhteen perusteella, sinun tulee eritellä minkä ajanjakson kokemuksen perusteella haet ahot-suoritusta (~270 tuntia). **Kyseiseltä ajanjaksolta ei ole sallittua hakea muita ahotointeja eikä jakso saa olla osa harjoittelua.**
 
-Käytännön ahot-suoritus tehdään Exam-tenttinä, jossa pohditaan työssäsi oppimiasi asioita muutamasta eri näkökulmasta, ja arvosana määräytyy vastausten perusteella. Saat ohjeet Exam-tenttiin ilmoittautumiseksi opettajilta, mikäli esittämäsi työkokemus täyttää vaatimukset kurssin ahotoimiseksi.
