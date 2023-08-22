@@ -109,7 +109,10 @@ Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
 
 **Tehtävä**:
 
-Edellä esitettyjen vaiheen tulosten raportointi opettajille viimeistään sunnuntai-iltana mennessä. User storyjen tai taskien valinta ensimmäiselle sprintille. Repositorion sekä projektitaulun osoitteen jakaminen opettajille.
+1. Sovelluksen arkkitehtuurin ja teknologioiden valinta sekä dokumentointi readme-tiedostoon.
+1. Käyttäjätarinoiden valinta ensimmäiselle sprintille.
+1. Repositorion sekä projektitaulun osoitteen jakaminen opettajille.
+1. Edellä esitettyjen vaiheen tulosten raportointi opettajille viimeistään sunnuntai-iltana mennessä.
 
 &nbsp;
 
