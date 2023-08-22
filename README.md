@@ -60,7 +60,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 Kurssin [käytäntöjen ja tavoitteiden](./aloitustunti.md) käsittely.
 
-[Esimerkkejä avoimen rajapinnan tarjoavista palveluista](avoimet-rajapinnat.md)
+[Esimerkkejä avoimen rajapinnan tarjoavista palveluista](avoimet-rajapinnat.md).
 
 **Tehtävä**: avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 
@@ -87,9 +87,29 @@ Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
 
 ### 📅 6.9. define sprint
 
-Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off
+* Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
+* [Valinnainen GitHub-organizaation luonti.](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
+* [Gitin käytäntöihin tutustuminen ja tiimin käytännöistä sopiminen](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories):
+    * Branchit
+    * Pull requestit
+    * jne.
+* [Git-repositorion tai repositorioiden luonti ja käyttöoikeuksien hallinta](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository).
+* [GitHub-projektitaulun luonti](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects) ja käyttöönotto. Vaihtoehtoisesti voitte hyödyntää Trelloa tai muuta tarkoitukseen sopivaa työkalua.
+* [Readme-tiedoston lisääminen repositorioon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
 
-**Tehtävä**: define-vaiheen tulosten raportointi opettajille sunnuntai-iltaan mennessä. User storyjen tai taskien valinta ensimmäiselle sprintille. Scrum boardin jakaminen opettajille.
+> *"A README is often the first item a visitor will see when visiting your repository. README files typically include information on:*
+>
+> * *What the project does*
+> * *Why the project is useful*
+> * *How users can get started with the project*
+> * *Where users can get help with your project*
+> * *Who maintains and contributes to the project"*
+>
+> GitHub. [About READMEs](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes).
+
+**Tehtävä**:
+
+Edellä esitettyjen vaiheen tulosten raportointi opettajille viimeistään sunnuntai-iltana mennessä. User storyjen tai taskien valinta ensimmäiselle sprintille. Repositorion sekä projektitaulun osoitteen jakaminen opettajille.
 
 &nbsp;
 
