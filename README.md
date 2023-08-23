@@ -92,7 +92,7 @@ Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
 * [Gitin käytäntöihin tutustuminen ja tiimin käytännöistä sopiminen](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories):
     * Branchit
     * Pull requestit
-    * jne.
+    * Yhteys sprint taskeihin
 * [Git-repositorion tai repositorioiden luonti ja käyttöoikeuksien hallinta](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository).
 * [GitHub-projektitaulun luonti](https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/quickstart-for-projects) ja käyttöönotto. Vaihtoehtoisesti voitte hyödyntää Trelloa tai muuta tarkoitukseen sopivaa työkalua.
 * [Readme-tiedoston lisääminen repositorioon](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes)
