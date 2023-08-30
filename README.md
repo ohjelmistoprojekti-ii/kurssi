@@ -88,7 +88,7 @@ Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
 ### 📅 6.9. define sprint
 
 * Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
-* [Valinnainen GitHub-organizaation luonti.](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
+* [Valinnainen GitHub-organisaation luonti.](https://docs.github.com/en/organizations/collaborating-with-groups-in-organizations/creating-a-new-organization-from-scratch)
 * [Gitin käytäntöihin tutustuminen ja tiimin käytännöistä sopiminen](https://docs.github.com/en/repositories/creating-and-managing-repositories/best-practices-for-repositories):
     * Branchit
     * Pull requestit
