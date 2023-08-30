@@ -117,7 +117,7 @@ Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
 &nbsp;
 
 
-## Sprint 1 *(11.-1.10.)*
+## Sprint 1 *(11.9.-1.10.)*
 
 Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa. Koko kurssin yhteisiä tilaisuuksia ei järjestetä, mutta ohjausta on saatavilla Teamsissa ja kampuksella lukujärjestyksen mukaisesti. Sprintti päättyy tiimikohtaisiin katselmointeihin.
 
