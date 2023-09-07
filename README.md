@@ -131,7 +131,9 @@ Ohjatut tapaamiset kampuksella:
 
     Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehittäjällä, eli sen ei tarvitse toimia esimerkiksi pilviympäristössä tai fyysisellä mobiililaitteella.
 
-📅 **28.9. - 1.10. Sprint 2 planning**
+&nbsp;
+
+**28.9. - 1.10. Sprint 2 planning**
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 2 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
@@ -160,6 +162,8 @@ Ohjatut tapaamiset kampuksella:
     **Vertaisryhmät** toimittavat toisilleen katselmointiraportit lähdekoodin katselmointien tuloksista.
 
     Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
+
+&nbsp;
 
 **26.-30.10 Sprint 3 planning**
 
@@ -200,6 +204,7 @@ Ohjatut tapaamiset kampuksella:
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 4 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
+&nbsp;
 
 ## Sprint 4 *(20.11-10.12.)*
 
