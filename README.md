@@ -119,32 +119,19 @@ Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
 
 ## Sprint 1 *(11.9.-1.10.)*
 
-Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa. Koko kurssin yhteisiä tilaisuuksia ei järjestetä, mutta ohjausta on saatavilla Teamsissa ja kampuksella lukujärjestyksen mukaisesti. Sprintti päättyy tiimikohtaisiin katselmointeihin.
+Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa. Koko kurssin yhteisiä tilaisuuksia ei järjestetä, mutta ohjausta on saatavilla Teamsissa ja kampuksella lukujärjestyksen mukaisesti. Sprintti päättyy tiimikohtaisiin katselmointeihin. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista pääsääntöisesti Teams-kanavilla.
 
-&nbsp;
+Ohjatut tapaamiset kampuksella:
 
+* 📅 **13.9.**
+* 📅 **20.9.**
+* 📅 **27.9. Sprint 1 katselmoinnit**
 
-### 📅 13.9. Sprint 1:n käynnistys
+    Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (readme). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
-Tiimit aloittavat itsenäisen työskentelyn projektien parissa. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista pääsääntöisesti Teams-kanavilla.
+    Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehittäjällä, eli sen ei tarvitse toimia esimerkiksi pilviympäristössä tai fyysisellä mobiililaitteella.
 
-&nbsp;
-
-
-### 📅 20.9.
-
-Sprint 1 jatkuu. Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät opettajien ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
-
-&nbsp;
-
-
-### 📅 27.9. Sprint 1 katselmoinnit
-
-Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (readme). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
-
-Tällä sprintillä esiteltävä versio voi hyvin olla paikallisesti ajossa kehittäjällä, eli sen ei tarvitse toimia esimerkiksi pilviympäristössä tai fyysisellä mobiililaitteella.
-
-**Sprint 2 planning**
+📅 **28.9. - 1.10. Sprint 2 planning**
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 2 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
@@ -153,40 +140,28 @@ Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 2 ja tek
 
 ## Sprint 2 *(2.10.-29.10.)*
 
-### 📅 4.10. Sprint 2:n käynnistys
+Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin. Opettajat nimeävät sprintin aikana jokaiselle tiimille **vertaisryhmän**, jotka **katselmoivat toistensa lähdekoodit** ja antavat palautetta demoissa.
 
-Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
+Ohjatut tapaamiset kampuksella:
 
-&nbsp;
+* 📅 **4.10.**
+* 📅 **11.10.**
 
+    Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Katso [koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
 
-### 📅 11.10.
+* 📅 **16.-22.10. Intensiiviviikko**
 
-Sprint 2 työskentely jatkuu. Opettajat nimeävät jokaiselle tiimille **vertaisryhmän**, jotka **katselmoivat toistensa lähdekoodit** ja antavat palautetta demoissa.
+    Ei kurssin yhteisiä tapaamisia.
 
-Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
+* 📅 **25.10. Sprint 2 katselmoinnit**
 
-[Koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
+    Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille. **Mahdollisuuksien mukaan sovelluksen tulisi olla ajossa tuotantoympäristöä vastaavassa ympäristössä**, tai tuotantoympäristön tulisi olla vähintään valittu perustellusti. Tuotantoympäristö voi tarkoittaa esimerkiksi pilvipalvelua tai fyysistä mobiililaitetta.
 
-&nbsp;
+    **Vertaisryhmät** toimittavat toisilleen katselmointiraportit lähdekoodin katselmointien tuloksista.
 
+    Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
-## 16.-22.10. Intensiiviviikko
-
-Ei kurssin yhteisiä tapaamisia.
-
-&nbsp;
-
-
-### 📅 25.10. Sprint 2 katselmoinnit
-
-Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille. **Mahdollisuuksien mukaan sovelluksen tulisi olla ajossa tuotantoympäristöä vastaavassa ympäristössä**, tai tuotantoympäristön tulisi olla vähintään valittu perustellusti. Tuotantoympäristö voi tarkoittaa esimerkiksi pilvipalvelua tai fyysistä mobiililaitetta.
-
-**Vertaisryhmät** toimittavat toisilleen katselmointiraportit lähdekoodin katselmointien tuloksista.
-
-Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
-
-**Sprint 3 planning**
+**26.-30.10 Sprint 3 planning**
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 3 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
@@ -202,71 +177,55 @@ Kurssin ensimmäisen itsearvioinnin kirjoittaminen ja oman oppimisen pohdinta. T
 
 ## Sprint 3 *(30.10.-19.11.)*
 
-### 📅 1.11. Sprint 3:n käynnistys
-
 Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
 
-&nbsp;
+Ohjatut tapaamiset kampuksella:
 
+* 📅 **1.11.**
+* 📅 **8.11.**
 
-### 📅 8.11.
+    Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
 
-Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
+* 📅 **15.11. Sprint 3 katselmoinnit**
 
-Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
+    Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
 
-&nbsp;
+    **Vertaisryhmät** toimittavat toisilleen katselmointiraportit lähdekoodin katselmointien tuloksista.
 
-
-### 📅 15.11. Sprint 3 katselmoinnit
-
-Kukin tiimi esittelee sprintin tulokset opettajille ja vertaisryhmille.
-
-**Vertaisryhmät** toimittavat toisilleen katselmointiraportit lähdekoodin katselmointien tuloksista.
-
-Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
+    Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
 
 &nbsp;
+
+**16.-19.11. Sprint 4 planning**
+
+Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 4 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
 
 
 ## Sprint 4 *(20.11-10.12.)*
 
 Tiimit pyrkivät viimeisessä sprintissä stabiloimaan projektinsa, eli he keskittyvät erityisesti toimintavarmuuden takaamiseen uusien ominaisuuksien jäädessä pienemmälle painoarvolle.
 
-Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
-
-&nbsp;
-
-
-### 📅 22.11. Sprint 4:n käynnistys
-
-Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
-
-&nbsp;
-
-
-### 📅 29.11.
-
-Tiimit työskentelevät itsenäisesti projektien parissa ja hyödyntävät ohjausta kutsumalla opettajat mukaan tiimin tapaamisiin.
-
-Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Viimeisessä sprintissä ei vertaiskatselmoida koodia, vaan projektin "yleisilmettä" painottuen erityisesti Git-repostitorioon ja dokumentaatioon.
-
 [Ohjeita projektin viimeistelyyn (dokumentointi, stabilointi ja tietoturva).](scrum/projektin-viimeistely.md)
 
+Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mahdollinen julkaisu sovelluskaupassa, npm:ssä tai web-palvelimella.
+
+
+* 📅 **22.11.**
+* 📅 **29.11.**
+
+    Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Viimeisessä sprintissä ei vertaiskatselmoida koodia, vaan projektin "yleisilmettä" painottuen erityisesti Git-repostitorioon ja dokumentaatioon.
+
+* 📅 **Ma 4.12. Projektien loppudemot**
+
+    Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille.
+
+    **Huom!** Itsenäisyyspäivän vuoksi projektien loppudemot pidetään poikkeuksellisesti maanantaina lukujärjestykseen merkittynä aikana.
+
+    Muistakaa dokumentoida projektinne mahdolliset tunnettut puutteet ja bugit ([GitHub issueina](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
+
 &nbsp;
 
-
-### 📅 **Ma 4.12.** Projektien loppudemot
-
-Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille.
-
-**Huom!** Itsenäisyyspäivän vuoksi projektien loppudemot pidetään poikkeuksellisesti maanantaina lukujärjestykseen merkittynä aikana.
-
-Muistakaa myös dokumentoida projektinne mahdolliset tunnettut puutteet ja bugit ([GitHub issueina](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
-
-&nbsp;
-
-### (📅 Ke 6.12. Itsenäisyyspäivä)
+**Ke 6.12. Itsenäisyyspäivä** - ei yhteistä tapaamista
 
 &nbsp;
 
