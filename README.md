@@ -133,9 +133,11 @@ Ohjatut tapaamiset kampuksella:
 
 &nbsp;
 
-**28.9. - 1.10. Sprint 2 planning**
+**28.9. - 1.10. Retrospektiivi ja sprint 2 planning**
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 2 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
+
+Katso [erillinen sivu retrospektiivistä](./scrum/retrospektiivi.md).
 
 &nbsp;
 
@@ -165,9 +167,11 @@ Ohjatut tapaamiset kampuksella:
 
 &nbsp;
 
-**26.-30.10 Sprint 3 planning**
+**26.-29.10 Retrospektiivi ja sprint 3 planning**
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 3 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
+
+Katso [erillinen sivu retrospektiivistä](./scrum/retrospektiivi.md).
 
 &nbsp;
 
@@ -200,9 +204,11 @@ Ohjatut tapaamiset kampuksella:
 
 &nbsp;
 
-**16.-19.11. Sprint 4 planning**
+**16.-19.11. Retrospektiivi ja sprint 4 planning**
 
 Katselmointien jälkeen tiimit valitsevat käyttäjätarinat sprintille 4 ja tekevät niihin tarvittavat tarkennukset ja määrittelyt.
+
+Katso [erillinen sivu retrospektiivistä](./scrum/retrospektiivi.md).
 
 &nbsp;
 
@@ -228,9 +234,12 @@ Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mah
 
     Muistakaa dokumentoida projektinne mahdolliset tunnettut puutteet ja bugit ([GitHub issueina](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
 
+    Katso [erillinen sivu retrospektiivistä](./scrum/retrospektiivi.md).
+
 &nbsp;
 
 **Ke 6.12. Itsenäisyyspäivä** - ei yhteistä tapaamista
+
 
 &nbsp;
 
