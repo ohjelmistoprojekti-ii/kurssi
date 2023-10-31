@@ -88,6 +88,10 @@
 
     > Atlassian JIRA REST APIs
 
+* https://github.com/swar/nba_api
+
+    > NBA.com API
+
 * https://swapi.dev
 
     > Star Wars API
