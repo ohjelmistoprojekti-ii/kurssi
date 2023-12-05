@@ -4,6 +4,34 @@ Olemme listanneet tälle sivulle esimerkkejä aikaisempien lukukausien projektei
 
 Valinta on tehty melko satunnaisesti, ja mikäli haluat linkin oman ryhmänne projektiin tälle sivulle, voit tehdä pull requestin tai pyytää lisäämistä opettajilta sähköpostiste.
 
+### Sampo arvolaskuri
+
+"The Sampo Web App is as a practical tool to simplify the process of determining the sale price for items users intend to sell online."
+
+https://github.com/ohjelmistoprojekti-sampo/sampo
+
+
+### Furniture fashioner
+
+"The application aims to offer the user a means to place virtual objects in their preferred scene, for example viewing a piece of furniture in their environment for decoration purposes."
+
+https://github.com/Furniture-Fashioner-Team/furniture-fashioner-app-android
+
+
+### Kalusteassari / Furniture Assistant
+
+"The purpose of the project was to create a mobile app where the user could utilize the camera of their device to get upkeep instructions for the furniture pictured."
+
+https://github.com/seitseman-niksaria/niksari-backend, https://github.com/seitseman-niksaria/niksari-frontend
+
+
+### FilmApp
+
+"This project is valuable as it allows users to securely store their data and create customized profiles for a mobile application, enhancing their overall user experience."
+
+https://github.com/Elokuva-Projekti-2023/MobileProject, https://github.com/Elokuva-Projekti-2023/BackEndFilmProject
+
+
 ### Discgolf Application
 
 > "This is a school team project developed using Spring Boot, Kotlin and Maven."
@@ -12,6 +40,7 @@ https://github.com/Ohjelmistoprojekti-II-Frisbeegolf/Mobile-app
 
 https://github.com/Ohjelmistoprojekti-II-Frisbeegolf/Backend
 
+
 ### Online Chess
 
 > "The goal was to create a multiplayer online chess game, where players can play against friends and random opponents. We also wanted to include a chat for an enchanced player experience."
@@ -19,6 +48,7 @@ https://github.com/Ohjelmistoprojekti-II-Frisbeegolf/Backend
 https://github.com/OP2-CheckMate/OnlineChessBack
 
 https://github.com/OP2-CheckMate/OnlineChessFront
+
 
 ### Kira
 
