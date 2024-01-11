@@ -79,6 +79,7 @@ Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
 * GitHub project -palvelun intro
     * YouTube: [Plan and track projects closer to your code #DemoDays](https://youtu.be/SI1ra-XHWHM)
     * GitHub blog: [How we’re using projects to build projects](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/)
+* [CSC:n Rahti-palvelun intro](https://haagahelia.github.io/hh-csc-docs/)
 * Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista. Materiaalit löytyvät kurssin Teamsista kohdasta Files.
 
 &nbsp;
