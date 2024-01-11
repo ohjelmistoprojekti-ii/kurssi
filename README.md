@@ -53,7 +53,7 @@ Kurssin laajuus on 10 opintopistettä, [eli noin 270 tuntia](https://www.haaga-h
 
 
 
-## Sprint 0: Projektien käynnistys *(15.-4.2.)*
+## Sprint 0: Projektien käynnistys *(15.1.-4.2.)*
 
 ### 📅 16.1. kurssin esittely, projektien ideointi ja tiimien muodostaminen
 
