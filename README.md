@@ -1,4 +1,4 @@
-# Ohjelmistoprojekti 2, toteutus SOF007AS3A-3002
+# Ohjelmistoprojekti 2 <small><em>toteutus SOF007AS3A-3002</em></small>
 
 Tämä Git-repositorio sisältää Ohjelmistoprojekti 2 -kurssin dokumentaation ja tiedostot.
 
