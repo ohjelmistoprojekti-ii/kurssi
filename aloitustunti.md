@@ -71,7 +71,6 @@ Tällä kurssilla pyritään hyödyntämään toisten kehittämiä ratkaisuja, j
     * Peli, keskustelu, jokin muu...
 * Luonnollisen kielen prosessointi (NLP)
     * Esim. sentimenttianalyysi
-* Peli-enginet, kuten Unity
 * Käyttöliittymät
     * Chatbot
     * Puheohjaus
