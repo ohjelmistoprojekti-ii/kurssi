@@ -76,11 +76,12 @@ Vision määrittelyn ja toteutettavan palvelun suunnittelun kick-off.
 [Double Diamond -menetelmä (www.thoughtworks.com)](https://www.thoughtworks.com/insights/blog/double-diamond)
 
 * Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
+* Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista. Materiaalit löytyvät kurssin Teamsista kohdasta Files.
 * GitHub project -palvelun intro
+    * YouTube: [How to use GitHub for end-to-end development](https://youtu.be/Hpx4Zlu8ujk)
     * YouTube: [Plan and track projects closer to your code #DemoDays](https://youtu.be/SI1ra-XHWHM)
     * GitHub blog: [How we’re using projects to build projects](https://github.blog/2022-05-16-how-were-using-projects-to-build-projects/)
 * [CSC:n Rahti-palvelun intro](https://haagahelia.github.io/hh-csc-docs/)
-* Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista. Materiaalit löytyvät kurssin Teamsista kohdasta Files.
 
 &nbsp;
 
