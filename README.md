@@ -229,8 +229,6 @@ Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mah
 
     Sprint 4 päättyy kurssin loppudemoihin, joissa kukin tiimi esittelee tuloksiaan muille.
 
-    **Huom!** Itsenäisyyspäivän vuoksi projektien loppudemot pidetään poikkeuksellisesti maanantaina lukujärjestykseen merkittynä aikana.
-
     Muistakaa dokumentoida projektinne mahdolliset tunnettut puutteet ja bugit ([GitHub issueina](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
 
     Katso [erillinen sivu retrospektiivistä](./scrum/retrospektiivi.md).
