@@ -56,6 +56,8 @@ Kurssin arviointi perustuu tiimityöskentelyyn, tiimin lopullisen tuloksen tarko
 
 Olette todennäköisesti tehneet samankaltaisen reflektoivan arvioinnin ohjelmistoprojekti 1:llä. Tällä opintojaksolla samaa ideaa viedään vielä astetta pidemmälle. Osaaminen ja oppiminen tuodaan näkyväksi pohtimalla ja kuvailemalla työtä eri näkökulmista ja eri tasoilla.
 
+Projektia arvioitaessa otetaan huomioon, kuinka hyvin siinä on hyödynnetty ajankohtaisia teknologioita ja mentelmiä. Esimerkiksi olemassa olevan avoimen lähdekoodin projektin jatkokehittäminen, teköälymallien hyödyntäminen tai teknisesti edistyneemmät rajapinnat nostavat projektin vaatimustasoa ja siten katsotaan eduksi arvioinnissa.
+
 
 ## Open source ja open data
 
@@ -63,6 +65,9 @@ Tällä kurssilla pyritään hyödyntämään toisten kehittämiä ratkaisuja, j
 
 
 ## Kurssin projekteihin soveltuvia aihealueita
+
+<!--* Kielimallin tai koneoppimisen hyödyntäminen esim. rajapinnan kautta-->
+<!--* Open source-->
 
 * Kuvantunnistus
 * Koneoppiminen ja tekoäly
