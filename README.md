@@ -111,7 +111,7 @@ Kurssin [käytäntöjen ja tavoitteiden](./aloitustunti.md) käsittely.
 &nbsp;
 
 
-## Sprint 1 *(2.-15.9.)*
+## Sprint 1 *(2.-22.9.)*
 
 Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamisen parissa. Koko kurssin yhteisiä tilaisuuksia ei järjestetä, mutta ohjausta on saatavilla Teamsissa ja kampuksella lukujärjestyksen mukaisesti. Sprintti päättyy tiimikohtaisiin katselmointeihin. Opettajat tutustuvat tiimien backlogeihin ja keskustelevat/antavat palautetta suunnitelmista pääsääntöisesti Teams-kanavilla.
 
