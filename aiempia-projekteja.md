@@ -9,7 +9,7 @@ Valinta on tehty melko satunnaisesti, ja mikäli haluat linkin oman ryhmänne pr
 "Helip is a mobile application that provides users with a comprehensive view of all sports facilities in Finland.
 The application is designed to facilitate users' exercise in the nearby area by providing a convenient way to find and explore different sports facilities."
 
-https://github.com/kridesav/Helip
+https://github.com/kridesav/Helip, 
 https://github.com/kridesav/Helip_backend.git
 
 
@@ -24,7 +24,7 @@ https://github.com/SafeStay/SafeStayMobile
 
 "Lähiroskikset provides the user a map and shows the user icons of trashcans which can be found nearby. The idea of the application is for the user to find trashcans easily. With the application the user is able to reduce littering in Helsinki. The map used in this project is by OpenStreetMap."
 
-https://github.com/Garbage-people/roskisAppFront
+https://github.com/Garbage-people/roskisAppFront, 
 https://github.com/Garbage-people/roskisAppBack
 
 
@@ -32,7 +32,7 @@ https://github.com/Garbage-people/roskisAppBack
 
 "MoveHEL on web-pohjainen liikuntapaikka sovellus, jossa käyttäjä voi arvostella liikuntapaikkoja Helsingissä. Arvostelut auttavat käyttäjää valitsemaan itselle sopivan liikuntapaikan."
 
-https://github.com/Liikkuvat-Koodarit/MoveHel_frontend
+https://github.com/Liikkuvat-Koodarit/MoveHel_frontend, 
 https://github.com/Liikkuvat-Koodarit/MoveHel_backend
 
 
