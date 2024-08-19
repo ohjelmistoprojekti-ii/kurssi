@@ -4,6 +4,38 @@ Olemme listanneet tälle sivulle esimerkkejä aikaisempien lukukausien projektei
 
 Valinta on tehty melko satunnaisesti, ja mikäli haluat linkin oman ryhmänne projektiin tälle sivulle, voit tehdä pull requestin tai pyytää lisäämistä opettajilta sähköpostiste.
 
+### Helip
+
+"Helip is a mobile application that provides users with a comprehensive view of all sports facilities in Finland.
+The application is designed to facilitate users' exercise in the nearby area by providing a convenient way to find and explore different sports facilities."
+
+https://github.com/kridesav/Helip
+https://github.com/kridesav/Helip_backend.git
+
+
+### SafeStay
+
+"SafeStay allows you to view and ensure the safety of your hotel's area. In the application, you can browse hotels in London, UK and view a map, which displays the safety of hotels areas with color codes (green - yellow - red). The app also allows you to view crimes that have occurred in specific areas."
+
+https://github.com/SafeStay/SafeStayMobile
+
+
+### Lähiroskikset
+
+"Lähiroskikset provides the user a map and shows the user icons of trashcans which can be found nearby. The idea of the application is for the user to find trashcans easily. With the application the user is able to reduce littering in Helsinki. The map used in this project is by OpenStreetMap."
+
+https://github.com/Garbage-people/roskisAppFront
+https://github.com/Garbage-people/roskisAppBack
+
+
+### MoveHEL
+
+"MoveHEL on web-pohjainen liikuntapaikka sovellus, jossa käyttäjä voi arvostella liikuntapaikkoja Helsingissä. Arvostelut auttavat käyttäjää valitsemaan itselle sopivan liikuntapaikan."
+
+https://github.com/Liikkuvat-Koodarit/MoveHel_frontend
+https://github.com/Liikkuvat-Koodarit/MoveHel_backend
+
+
 ### Sampo arvolaskuri
 
 "The Sampo Web App is as a practical tool to simplify the process of determining the sale price for items users intend to sell online."
