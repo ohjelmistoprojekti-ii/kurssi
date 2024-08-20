@@ -59,12 +59,6 @@ Kurssin [käytäntöjen ja tavoitteiden](./aloitustunti.md) käsittely.
 
 [Esimerkkejä avoimen rajapinnan tarjoavista palveluista](avoimet-rajapinnat.md).
 
-
-[Double Diamond -menetelmä (www.thoughtworks.com)](https://www.thoughtworks.com/insights/blog/double-diamond)
-
-* Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
-* Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista. Materiaalit löytyvät kurssin Teamsista kohdasta Files.
-
 **Tehtävä**: avoimen datan lähteisiin ja avoimen lähdekoodin projekteihin tutustuminen.
 
 * Jakautuminen tiimeihin. Tiimin tavoitekoko on 5 henkilöä.
@@ -74,6 +68,11 @@ Kurssin [käytäntöjen ja tavoitteiden](./aloitustunti.md) käsittely.
 
 
 ### 📅 27.8. Kurssin menetelmät ja työkalut
+
+[Double Diamond -menetelmä (www.thoughtworks.com)](https://www.thoughtworks.com/insights/blog/double-diamond)
+
+* Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
+* [Projektin laajuuden estimointi](https://haagahelia.sharepoint.com/teams/Ohjelmistoprojekti2/_layouts/15/embed.aspx?uniqueId=c5143a7b-af2f-44dd-a5e3-d5fbc7d45924&access_token=v1.eyJzaXRlaWQiOiI4ODUzMDU1ZS0wNTE4LTRhODgtYTBhMC0xNzA0MGRiNjJiMGIiLCJhcHBfZGlzcGxheW5hbWUiOiJNaWNyb3NvZnQgVGVhbXMiLCJhcHBpZCI6IjFmZWM4ZTc4LWJjZTQtNGFhZi1hYjFiLTU0NTFjYzM4NzI2NCIsImF1ZCI6IjAwMDAwMDAzLTAwMDAtMGZmMS1jZTAwLTAwMDAwMDAwMDAwMC9oYWFnYWhlbGlhLnNoYXJlcG9pbnQuY29tQGE5ZTM5NDgzLWRkMjEtNGMyNS1iODQ4LTJhNjI1Y2ZmNzkzOSIsImV4cCI6IjE3MjQxNTEyNDYifQ.CgoKBHNuaWQSAjg5EgsIgIS68ffDoD0QBRoMNDAuMTI2LjUzLjI0KixneWVjT1d0RllNc1Nkbk4yRlQ2N1N1N05ka1NKSVZzSjNJa0trOG9kWnNVPTCAATgBQhChSBlHJ3AAkKXRJg7US8VCShBoYXNoZWRwcm9vZnRva2VuUhNbImttc2kiLCJkdmNfZG1qZCJdcikwaC5mfG1lbWJlcnNoaXB8MTAwMzIwMDBjMzRmZjIxZUBsaXZlLmNvbXoBMoIBEgmDlOOpId0lTBG4SCpiXP95OZIBBElzbW-aAQlIYXJqdW5tYWGiARVoMDIxMTRAaGFhZ2EtaGVsaWEuZmmqARAxMDAzMjAwMEMzNEZGMjFFsgEdYWxsZmlsZXMud3JpdGUgYWxsc2l0ZXMud3JpdGXIAQE.R3dFf0F1tBFxcjJYSyfVTHy3DnRBeT8x8lQbpADDyD8&embed=%7B%22ha%22%3A%22teams%22%2C%22hv%22%3A%22classwork%22%2C%22hm%22%3A%22view%22%2C%22hp%22%3A%22electron%22%2C%22nb%22%3Atrue%7D): karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista. Materiaalit löytyvät kurssin Teamsista kohdasta Files.
 
 * GitHub project -palvelun intro
     * YouTube: [How to use GitHub for end-to-end development](https://youtu.be/Hpx4Zlu8ujk)
