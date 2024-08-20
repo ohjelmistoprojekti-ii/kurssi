@@ -24,7 +24,7 @@ Olemme siirtyneet Moodlesta GitHubiin sekä Teamsiin. Moodleen ei tämän hetken
 
 ## Tämä kurssi suhteessa kokonaisuuteen
 
-Ohjelmistoprojekti II on jatkoa Ohjelmistoprojekti 1 -kurssille, mutta tällä kurssilla on selkeitä eroavaisuuksia:
+Ohjelmistoprojekti 2 on jatkoa Ohjelmistoprojekti 1 -kurssille, mutta tällä kurssilla on selkeitä eroavaisuuksia:
 
 * ohjelmistoprojekti 1:ssä opettajalla oli merkittävä rooli projektin määrittelyssä
 * ohjelmistoprojekti 1:ssä teknologiat olivat tarkasti rajatut.

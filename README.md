@@ -224,8 +224,6 @@ Sprintin tavoitteena on projektien lähdekoodien julkaisu, sekä sovellusten mah
 
     Muistakaa dokumentoida projektinne mahdolliset tunnettut puutteet ja bugit ([GitHub issueina](https://help.github.com/en/github/managing-your-work-on-github/creating-an-issue)).
 
-    Katso [erillinen sivu retrospektiivistä](./scrum/retrospektiivi.md).
-
 
 &nbsp;
 
