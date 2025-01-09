@@ -72,7 +72,7 @@ Kurssin [käytäntöjen ja tavoitteiden](./aloitustunti.md) käsittely.
 [Double Diamond -menetelmä (www.thoughtworks.com)](https://www.thoughtworks.com/insights/blog/double-diamond)
 
 * Esimerkki määrittelydokumentista ja käyttäjätarinoista: [Form Autofill for Firefox Desktop](https://docs.google.com/document/d/1j31lNkc_OFNNoxKmOJX5LWrbLn5zD19ngwsQtq_edVc/edit)
-* [Projektin laajuuden estimointi](https://haagahelia.sharepoint.com/teams/Ohjelmistoprojekti2/Classwork/Forms/AllItems.aspx?id=%2Fteams%2FOhjelmistoprojekti2%2FClasswork%2FViikko%202%2Fviikko2%2Epdf&parent=%2Fteams%2FOhjelmistoprojekti2%2FClasswork%2FViikko%202): karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista. Materiaalit löytyvät kurssin Teamsista kohdasta Luokkatyö > Viikko 2.
+* Projektin laajuuden estimointi: karkea arviointi käytössä olevasta ajasta ja odotetuista tuloksista. Materiaalit löytyvät kurssin Teamsista kohdasta Luokkatyö > Viikko 2.
 
 * GitHub project -palvelun intro
     * YouTube: [How to use GitHub for end-to-end development](https://youtu.be/Hpx4Zlu8ujk)
@@ -135,7 +135,7 @@ Katso [erillinen sivu retrospektiivistä](./scrum/retrospektiivi.md).
 &nbsp;
 
 
-## 🚫 intensiiviviikolla ei tapaamista
+## 🚫 Talvilomaviikolla ei tapaamista
 
 
 ## Sprint 2
