@@ -144,7 +144,7 @@ Tiimit työskentelevät itseohjautuvasti projektien parissa ja hyödyntävät oh
 
 Ohjatut tapaamiset kampuksella:
 
-* 📅 25.2.
+* 📅 25.2. Tietoisku I: Ohjelmiston testaaminen
 * 📅 4.3.
 
     Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Katso [koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
