@@ -186,7 +186,7 @@ Ohjatut tapaamiset kampuksella:
 * 📅 25.3.
 * 📅 1.4.
 
-    Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan.
+    Tiimit valitsevat projekteistaan katselmoitavan osan ja toimittavat katselmointipyynnön viimeistään torstaina.
 
 * 📅 8.4. Sprint 3 katselmoinnit
 
