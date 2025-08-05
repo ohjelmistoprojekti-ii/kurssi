@@ -18,7 +18,7 @@ Kurssin lopputulokset julkaistaan lähtökohtaisesti avoimella lisenssillä.
 
 Katso myös:
 
-* [opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course_unit/SOF007AS3A)
+* [opintojaksokuvaus](https://opinto-opas.haaga-helia.fi/course/SOF007AS3A)
 * [Scrum guides](https://scrumguides.org/)
 * [Readme Driven Development](https://tom.preston-werner.com/2010/08/23/readme-driven-development.html)
 
