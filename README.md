@@ -43,7 +43,7 @@ Tarkemmat ohjeet AHOT-käytäntöjen suhteen löydät [erilliseltä sivulta](./a
 
 # Kurssin aikataulu *(syksy 2025)*
 
-Kurssista järjestetään kaksi rinnakkaista toteutusta. Toteutuksen **SOF007AS3A-3009** yhteiset tapaamiset järjestetään viikoittain **tiistaisin klo 11-13.45 luokassa 5007 (Softala)**.
+Kurssista järjestetään kaksi rinnakkaista toteutusta. Toteutuksen **SOF007AS3A-3009** yhteiset tapaamiset järjestetään viikoittain **tiistaisin klo 11-13.45 luokissa 5006 ja 5007 (Softala)**.
 
 Kurssille varattuina ajankohtina työskennellään projektin parissa scrum-kehyksen mukaisesti. Tavoitteenamme on työskennellä kolmen viikon sprinteissä, joita  mahtuu kurssille 4 kappaletta. Intensiivi- ja lomaviikkoja ei huomioida osana sprinttien kestoa.
 
