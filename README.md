@@ -117,7 +117,7 @@ Sprint 1:llä tiimit aloittavat itsenäisen työskentelyn projektin toteuttamise
 Ohjatut tapaamiset kampuksella:
 
 * 📅 2.9.
-* 📅 9.9.
+* 📅 9.9. Tietoisku I: [Google Stitch](https://stitch.withgoogle.com/) prototyyppien suunnittelussa
 * 📅 16.9. Sprint 1 katselmoinnit
 
     Kukin tiimi esittelee **sprintin tulokset** ja **ensimmäisen version dokumentaatiostaan** (readme). Tiimit pitävät itsenäisesti retrospektiivit, joiden perusteella työtapoja kehitetään seuraavaa sprinttiä varten.
@@ -141,7 +141,7 @@ Tiimit työskentelevät itseohjautuvasti projektien parissa ja hyödyntävät oh
 
 Ohjatut tapaamiset kampuksella:
 
-* 📅 23.9. Tietoisku I: Ohjelmiston testaaminen
+* 📅 23.9. Tietoisku II: Ohjelmiston testaaminen
 * 📅 30.9.
 
     Vertaisryhmät toimittavat toisilleen katselmointipyynnöt, jossa ovat rajanneet omasta projektistaan katselmoitavan osan. Katso [koodin katselmoinnin ohjeistus](scrum/koodin-katselmointi.md).
