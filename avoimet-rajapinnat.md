@@ -103,3 +103,7 @@
 * https://porssisahko.net/api
 
     > Porssisahko.net tarjoaa yksinkertaisen hinta APIn Suomen pörssisähkön varttihinnoille. Alla olevat kaksi API endpointtia ovat vapaasti käytettävissä. Autentikaatiota ei tarvita.
+
+* https://api-developer.vero.fi/apis
+
+    > Vero API Sandbox Services
